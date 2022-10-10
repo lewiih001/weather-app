@@ -9,3 +9,5 @@ Welcome to my weather app. Experience accurate weather data from any place aroun
 
 
 Introduction
+Clicked the favourite button to mark a location as home location. This will be the default location anytime you login to the app. Enter the location you wish to know the weather.The unit used is imperial.
+
