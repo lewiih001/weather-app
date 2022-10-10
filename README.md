@@ -15,3 +15,4 @@ Development
 The apps frontend has been built using React-Js.
 
 Api
+The app utilizes open weather api to provides weather data.
